@@ -1,0 +1,21 @@
+.parte1{
+    display: block;
+    border: 5px solid blue;
+}
+
+.parte2{
+display: inline-block;
+border: 5px dashed gray;
+}
+
+#img1{
+    border: solid 5px blue;
+}
+
+#img2{
+    border: dashed 5px rgb(173, 57, 57);
+}
+
+#img3{
+    border: double 5px rgb(57, 173, 57);
+}

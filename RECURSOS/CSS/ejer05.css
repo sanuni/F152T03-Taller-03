@@ -1,0 +1,41 @@
+
+body{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.recua{
+    border: solid 4px rgb(9, 46, 114);
+    border-radius: 10px;
+
+}
+.ejer5{
+    color: rgb(9, 46, 114);
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    top: auto;
+    left: auto;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border: double 8px white;
+    padding: 15px;
+    display: block;
+}
+
+.titulo{
+    color: rgb(9, 46, 114);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 4px white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p{
+    color: royalblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}

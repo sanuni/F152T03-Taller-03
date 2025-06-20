@@ -1,0 +1,21 @@
+span{
+    display: block;
+}
+
+#ele1{
+    background-color: brown;
+    padding: 40px;
+    border: 5px solid yellow;
+}
+
+#ele2{
+    background-color: rgb(39, 209, 95);
+    padding: 40px;
+    border: 5px solid pink;
+}
+
+#ele3{
+    background-color: rgb(10, 100, 160);
+    padding: 40px;
+    border: 5px solid orange;
+}
